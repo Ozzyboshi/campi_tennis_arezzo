@@ -63,5 +63,18 @@
     "telefono": "3331505004",
     "affiliato_fit": false,
     "note":"Di estate senza i palloni costa un euro meno"
+  },
+  {
+    "nome": "Tennis Club Chitignano",
+    "prezzo_tessera": "15",
+    "coperto": false,
+    "prezzo_giorno_socio": 5,
+    "prezzo_sera_socio": 7.5,
+    "prezzo_giorno_non_socio": -1,
+    "prezzo_sera_non_socio": -1,
+    "indirizzo": "Chitignano davanti 3 fontane.",
+    "telefono": "3357809582",
+    "affiliato_fit": false,
+    "note":"Prenotazione da app TENNISCALL , chi ti da le chiavi? Booooh?"
   }
 ]

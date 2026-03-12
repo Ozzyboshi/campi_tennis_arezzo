@@ -17,6 +17,7 @@ function mostraTabella(lista){
     lista.forEach(campo => {
 
         let coperto = campo.coperto ? "Si" : "No"
+        let affiliato_fit = campo.affiliato_fit ? "Si" : "No"
 
         let riga = `
         <tr>
@@ -29,7 +30,7 @@ function mostraTabella(lista){
             <td>${campo.prezzo_sera_non_socio} €</td>
             <td>${campo.indirizzo}</td>
             <td>${campo.telefono}</td>
-            <td>${campo.affiliato_fit}</td>
+            <td>${affiliato_fit}</td>
             <td>${campo.note}</td>
         </tr>
         `
