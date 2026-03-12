@@ -34,5 +34,17 @@
     "indirizzo": "Rigutino Est 1",
     "telefono": "0575 979319",
     "affiliato_fit": true
+  },
+  {
+    "nome": "Tennis Club San Clemente",
+    "prezzo_tessera": "390",
+    "coperto": true,
+    "prezzo_giorno_socio": 30,
+    "prezzo_sera_socio": 30,
+    "prezzo_giorno_non_socio": 10,
+    "prezzo_sera_non_socio": 10,
+    "indirizzo": "Via Vecchia Arezzo",
+    "telefono": "",
+    "affiliato_fit": true
   }
 ]
