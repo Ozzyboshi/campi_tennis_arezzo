@@ -1,0 +1,29 @@
+[
+  {
+    "nome": "Tennis Club Nomentano",
+    "zona": "Nomentano",
+    "coperto": true,
+    "prezzo_giorno": 22,
+    "prezzo_sera": 27,
+    "indirizzo": "Via di Villa Torlonia",
+    "telefono": "061234567"
+  },
+  {
+    "nome": "Sporting Club Tiburtina",
+    "zona": "Tiburtina",
+    "coperto": false,
+    "prezzo_giorno": 18,
+    "prezzo_sera": 23,
+    "indirizzo": "Via Tiburtina",
+    "telefono": "069876543"
+  },
+  {
+    "nome": "Circolo Tennis Parioli",
+    "zona": "Parioli",
+    "coperto": true,
+    "prezzo_giorno": 30,
+    "prezzo_sera": 35,
+    "indirizzo": "Viale Parioli",
+    "telefono": "061111111"
+  }
+]
