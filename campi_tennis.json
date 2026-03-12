@@ -9,7 +9,8 @@
     "prezzo_sera_non_socio": 5,
     "indirizzo": "Stadio di calcio Laterina",
     "telefono": "",
-    "affiliato_fit": true
+    "affiliato_fit": true,
+    "note":""
   },
   {
     "nome": "Sporting San Leo Arezzo",
@@ -21,7 +22,8 @@
     "prezzo_sera_non_socio": 25,
     "indirizzo": "Via Molinara 4 – Località San Leo – 52100 Arezzo (AR) ",
     "telefono": "335 82 84 301",
-    "affiliato_fit": true
+    "affiliato_fit": true,
+    "note":"Le ore sono di 55 min"
   },
   {
     "nome": "Tennis Club Rigutino",
@@ -33,7 +35,8 @@
     "prezzo_sera_non_socio": 10,
     "indirizzo": "Rigutino Est 1",
     "telefono": "0575 979319",
-    "affiliato_fit": true
+    "affiliato_fit": true,
+    "note":""
   },
   {
     "nome": "Tennis Club San Clemente",
@@ -45,6 +48,20 @@
     "prezzo_sera_non_socio": 10,
     "indirizzo": "Via Vecchia Arezzo",
     "telefono": "",
-    "affiliato_fit": true
+    "affiliato_fit": true,
+    "note":""
+  },
+  {
+    "nome": "Asd Tennis 2.0",
+    "prezzo_tessera": "100",
+    "coperto": true,
+    "prezzo_giorno_socio": 6,
+    "prezzo_sera_socio": 7,
+    "prezzo_giorno_non_socio": 8,
+    "prezzo_sera_non_socio": 9,
+    "indirizzo": "Setteponti ponente loc. Montalto, Terranuova Bracciolini, Arezzo.",
+    "telefono": "3331505004",
+    "affiliato_fit": false,
+    "note":"Di estate senza i palloni costa un euro meno"
   }
 ]

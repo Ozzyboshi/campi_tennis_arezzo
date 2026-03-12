@@ -21,7 +21,7 @@ function mostraTabella(lista){
         let riga = `
         <tr>
             <td>${campo.nome}</td>
-            <td>${campo.prezzo_tessera}</td>
+            <td>${campo.prezzo_tessera} €</td>
             <td>${coperto}</td>
             <td>${campo.prezzo_giorno_socio} €</td>
             <td>${campo.prezzo_sera_socio} €</td>
@@ -30,6 +30,7 @@ function mostraTabella(lista){
             <td>${campo.indirizzo}</td>
             <td>${campo.telefono}</td>
             <td>${campo.affiliato_fit}</td>
+            <td>${campo.note}</td>
         </tr>
         `
 
