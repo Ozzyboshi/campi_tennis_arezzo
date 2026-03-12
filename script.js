@@ -27,7 +27,7 @@ function mostraTabella(lista){
             <td>${campo.prezzo_sera_socio} €</td>
             <td>${campo.prezzo_giorno_non_socio} €</td>
             <td>${campo.prezzo_sera_non_socio} €</td>
-            <td>${campo.indirizzo} €</td>
+            <td>${campo.indirizzo}</td>
             <td>${campo.telefono}</td>
             <td>${campo.affiliato_fit}</td>
         </tr>
