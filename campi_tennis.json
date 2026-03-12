@@ -1,29 +1,38 @@
 [
   {
-    "nome": "Tennis Club Nomentano",
-    "zona": "Nomentano",
-    "coperto": true,
-    "prezzo_giorno": 22,
-    "prezzo_sera": 27,
-    "indirizzo": "Via di Villa Torlonia",
-    "telefono": "061234567"
-  },
-  {
-    "nome": "Sporting Club Tiburtina",
-    "zona": "Tiburtina",
+    "nome": "Tennis Club Laterina",
+    "prezzo_tessera": "50",
     "coperto": false,
-    "prezzo_giorno": 18,
-    "prezzo_sera": 23,
-    "indirizzo": "Via Tiburtina",
-    "telefono": "069876543"
+    "prezzo_giorno_socio": 2,
+    "prezzo_sera_socio": 2,
+    "prezzo_giorno_non_socio": 5,
+    "prezzo_sera_non_socio": 5,
+    "indirizzo": "Stadio di calcio Laterina",
+    "telefono": "",
+    "affiliato_fit": true
   },
   {
-    "nome": "Circolo Tennis Parioli",
-    "zona": "Parioli",
+    "nome": "Sporting San Leo Arezzo",
+    "prezzo_tessera": "170",
     "coperto": true,
-    "prezzo_giorno": 30,
-    "prezzo_sera": 35,
-    "indirizzo": "Viale Parioli",
-    "telefono": "061111111"
+    "prezzo_giorno_socio": 20,
+    "prezzo_sera_socio": 20,
+    "prezzo_giorno_non_socio": 25,
+    "prezzo_sera_non_socio": 25,
+    "indirizzo": "Via Molinara 4 – Località San Leo – 52100 Arezzo (AR) ",
+    "telefono": "335 82 84 301",
+    "affiliato_fit": true
+  },
+  {
+    "nome": "Tennis Club Rigutino",
+    "prezzo_tessera": "40",
+    "coperto": false,
+    "prezzo_giorno_socio": 6,
+    "prezzo_sera_socio": 8,
+    "prezzo_giorno_non_socio": 8,
+    "prezzo_sera_non_socio": 10,
+    "indirizzo": "Rigutino Est 1",
+    "telefono": "0575 979319",
+    "affiliato_fit": true
   }
 ]

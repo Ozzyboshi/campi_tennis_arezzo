@@ -21,11 +21,15 @@ function mostraTabella(lista){
         let riga = `
         <tr>
             <td>${campo.nome}</td>
-            <td>${campo.zona}</td>
+            <td>${campo.prezzo_tessera}</td>
             <td>${coperto}</td>
-            <td>${campo.prezzo_giorno} €</td>
-            <td>${campo.prezzo_sera} €</td>
+            <td>${campo.prezzo_giorno_socio} €</td>
+            <td>${campo.prezzo_sera_socio} €</td>
+            <td>${campo.prezzo_giorno_non_socio} €</td>
+            <td>${campo.prezzo_sera_non_socio} €</td>
+            <td>${campo.indirizzo} €</td>
             <td>${campo.telefono}</td>
+            <td>${campo.affiliato_fit}</td>
         </tr>
         `
 
@@ -39,7 +43,7 @@ document.getElementById("search").addEventListener("input", function(){
 
     let filtrati = dati.filter(campo =>
         campo.nome.toLowerCase().includes(filtro) ||
-        campo.zona.toLowerCase().includes(filtro)
+        campo.prezzo_tessera.toLowerCase().includes(filtro)
     )
 
     mostraTabella(filtrati)
