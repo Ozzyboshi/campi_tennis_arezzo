@@ -76,5 +76,18 @@
     "telefono": "3357809582",
     "affiliato_fit": false,
     "note":"Prenotazione da app TENNISCALL , chi ti da le chiavi? Booooh?"
+  },
+  {
+    "nome": "Tennis Club San Leo",
+    "prezzo_tessera": "25",
+    "coperto": false,
+    "prezzo_giorno_socio": 6,
+    "prezzo_sera_socio": 7,
+    "prezzo_giorno_non_socio": -1,
+    "prezzo_sera_non_socio": -1,
+    "indirizzo": "San Leo via Doninzetti.",
+    "telefono": "347 082 4696",
+    "affiliato_fit": false,
+    "note":"Questo circolo affitta il campo ad ore (12 giorno e 14 notte) e non a persona/ora, buono per i doppi. Prenotazioni via whatsapp"
   }
 ]
